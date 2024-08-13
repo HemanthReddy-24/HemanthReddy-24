@@ -45,9 +45,3 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HemanthReddy-24&bg_color=dcf6fe&color=e600d2&line=ff0000&point=37ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/HemanthReddy-24/count.svg?"  />
-</div>
-
-###
