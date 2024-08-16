@@ -37,7 +37,7 @@
 
 <br clear="both">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Hemanth_Kalakota?theme=forest&font=Roboto%20Condensed)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hemanth_reddy_kalakota?theme=forest&font=Inria%20Serif)
 
 ###
 
